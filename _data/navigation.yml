@@ -1,0 +1,49 @@
+# main links
+
+main:
+    - title: "Home"
+      url: /
+    - title: "News"
+      url: /news/
+    - title: "Data"
+      url: /resources/
+    - title: "Wiki"
+      url: /wiki/
+    - title: "Community"
+      url: /community/
+    - title: "About"
+      url: /about/
+  
+pages:
+  - title: "Research"
+    url: /research/overview
+    children:
+      - title: "Overview"
+        url: /research/overview
+      - title: "Phenomics of sexual conflict in damselflies"
+        url: /research/damselflies
+      - title: "Trophic diversification of Lake Victoria Cichlids"
+        url: /research/cichlids
+      - title: "Isopod pigmentation: developmental plasticity and selection"
+        url: /research/isopods
+      - title: "Determinants of temporal variability in aquatic ecosystems"
+        url: /research/ecosystems
+
+  - title: "Resources"
+    children:
+      - title: "Sofware"
+        url: /resources/#software
+      - title: "Guides"
+        url: /resources/#Guides
+        
+  - title: "Publications"
+    children:
+      - title: "Publications"
+        url: /publications/#publications
+      - title: "Presentations"
+        url: /publications/#presentations
+      - title: "Posters"
+        url: /publications/#posters
+        
+  - title: "Posts"
+    url: /posts/
