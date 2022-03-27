@@ -14,6 +14,7 @@ The broad range of methods that are already being used - different phenotyping m
 This clearly shows that *Asellus aquaticus* is ready to fledge as a model system for eco-evo-devo studies both for basic and applied questions. At the same time, several knowledge gaps were identified and for a very short non-exhaustive summary, these include poor understanding of basic requirements of *A. aquaticus* (e.g. in lab rearing), lack of a well-annotated genome, and limited knowledge on sexual selection and phenology.
 
 <script src="/assets/js/jquery.slim.min.3.6.0.js"></script>
+<script src="/assets/js/custom.js"></script>
 <script src="/assets/js/jquery.fitvids.js"></script>
 
 <script>
