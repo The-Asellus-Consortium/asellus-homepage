@@ -13,9 +13,9 @@ The broad range of methods that are already being used - different phenotyping m
 
 This clearly shows that *Asellus aquaticus* is ready to fledge as a model system for eco-evo-devo studies both for basic and applied questions. At the same time, several knowledge gaps were identified and for a very short non-exhaustive summary, these include poor understanding of basic requirements of *A. aquaticus* (e.g. in lab rearing), lack of a well-annotated genome, and limited knowledge on sexual selection and phenology.
 
-<script src="/assets/js/jquery.slim.min.3.6.0.js"></script>
 <script src="/assets/js/custom.js"></script>
 <script src="/assets/js/jquery.fitvids.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/axios/0.19.2/axios.min.js"> </script>
 
 <script>
 $(document).ready(function(){
@@ -163,7 +163,7 @@ Scientific synopsis and notes (updated 2022-02-02):
 	</div>
 	
 	<div class="video-item">
-		Video missing - will be uploaded soon!
+		<iframe width="1280" height="720" src="https://www.youtube.com/embed/DV8v8r3hNBs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 		<h5>Hajriz Berisha</h5>
 		<p>Behavioural/Increased movement activity of <i>Asellus aquaticus</i> in a food abundant, predator-free cave habitat</p>
 	</div>
