@@ -42,7 +42,7 @@ Scientific synopsis and notes (updated 2022-02-02):
 
 <div class="demo-container">
 
-	<div class="demo-item" style="background-color: rgb(24,252,211)">
+	<div class="demo-item" style="background-color: rgb(96,183,19)">
 		<div>
 			<p>Keynote (40 mins)</p>
 		</div>
@@ -65,7 +65,7 @@ Scientific synopsis and notes (updated 2022-02-02):
 ## Keynote presentation
 
 <div class="video-container">
-	<div class="video-item" style="background-color: rgb(24,252,211);" >
+	<div class="video-item" style="background-color: rgb(96,183,19);" >
 		<iframe width="1280" height="720" src="https://www.youtube.com/embed/TgG-AR9n2YM?list=PL5Y_w-GAllxiU3HHpHwA2GwhXA8pvV4jS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 		<h5>Meredith Protas</h5>
 		<p>The genetic basis of pigmentation differences in multiple populations of <i>Asellus aquaticus</i></p>
