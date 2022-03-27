@@ -1,8 +1,8 @@
-(function() {
-  if (!location.href.endsWith('/')) {
-    window.location = location.href + '/'
-  }
-}())
+// (function() {
+  // if (!location.href.endsWith('/')) {
+    // window.location = location.href + '/'
+  // }
+// }())
 
 
 function download_file(file_link){
