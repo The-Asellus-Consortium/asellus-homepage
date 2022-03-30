@@ -1,21 +1,21 @@
 ---
-layout: single
+layout: authors
 classes: narrow
 permalink: /about/ 
 ---
 
-# About this website
 
-Why should people care about this website
 
 # The Asellus Consortium
 
 Who we are, what we do, our intent. Mention Twitter account, github acount, deposited data, etc...
 
+
+and want help us to compile knowledge on _Asellus aquaticus_, better connect the community, organize meetings and symposia, or have ideas for projects and collaborations, 
+
 Links to our personal websites, ...
 
-# Join the consortium
 
-To foster community building among scientists studying or using _Asellus_ isopods for their research, feel free to join the asellus mailing list. 
+# About this website
 
-{% include contact-form.html %}
+Why should people care about this website

@@ -5,8 +5,6 @@
 @charset "utf-8";
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
-@import "custom";
-
 
 html {
   font-size: 12px; // change to whatever
@@ -123,4 +121,7 @@ figure img, figure iframe, figure .fluid-width-video-wrapper {
 	border-bottom: 0px solid #51555d;
 
 }
+
+
+@import "custom";
 

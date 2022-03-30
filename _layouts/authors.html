@@ -1,0 +1,44 @@
+---
+layout: single
+---
+
+{{ content }}
+
+<!-- <h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Recent News" }}</h3> -->
+
+<!-- {% if paginator %} -->
+  <!-- {% assign posts = paginator.posts %} -->
+<!-- {% else %} -->
+  <!-- {% assign posts = site.posts %} -->
+<!-- {% endif %} -->
+
+<!-- {% assign entries_layout = page.entries_layout | default: 'list' %} -->
+<!-- <div class="entries-{{ entries_layout }}"> -->
+  <!-- {% for post in posts %} -->
+    <!-- {% include archive-single.html type=entries_layout %} -->
+  <!-- {% endfor %} -->
+<!-- </div> -->
+
+<!-- {% include paginator.html %} -->
+
+
+<ul>
+{% for author in site.data.authors %}
+  <div class="profile">
+
+	<div itemscope.itemtype="https://schema.org/Person">
+      <div class="author__avatar" >
+				<img src="/assets/images/asellus_logo.png" alt="The Asellus Consortium" itemprop="image">
+			</div>
+			<div class="author__content">
+			<div class="author__bio" itemprop="description">
+        <p>Interest group for the use of Asellus aquaticus in evolutionary ecology</p>
+
+      </div>
+			</div>
+	</div>
+	</div>
+
+  <!-- </li> -->
+{% endfor %}
+</ul>

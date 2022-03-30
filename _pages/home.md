@@ -18,8 +18,14 @@ study_systems:
 
 # Welcome!
 
-This the homepage of The Asellus Consortium, an interest group for the broad use of _Asellus aquaticus_ as a system to study ecological, evolutionary and developmental phenomena. We are currently still in the phase of consolidating knowledge, connecting among interest parties, and establishing of purpose.
+This the homepage of _The Asellus Consortium_, an interest group for the broad use of _Asellus aquaticus_ as a system to study ecological, evolutionary and developmental phenomena. We are currently still in the phase of consolidating knowledge, connecting among interest parties, and establishing of purpose.
 
+To receive (or share) the latest asellus related news, [**join the mailing list** (https://groups.google.com/g/asellus-mail)](https://groups.google.com/g/asellus-mail)
+
+For extended discussions and exchange on topics and ideas, [**use the discussion forum** (https://groups.google.com/g/asellus-forum)](https://groups.google.com/g/asellus-forum)
+
+If you are interested in joining the consortium, or have questions about this initiative, [**please get in touch with us**  (asellus.consortium@gmail.com)](asellus.consortium@gmail.com)
+
+<div style="max-width: 90%; display:flex; justify-content: center;">
 {% include gallery id="study_systems" %}
-
-If you are interested in joining the consortium, and want help us to compile knowledge on _Asellus aquaticus_, better connect the community, organize meetings and symposia, or have ideas for projects and collaborations, please get in touch by sending an email to [info@asellus.org](mailto:info@asellus.org)
+</div>
