@@ -1,21 +1,36 @@
 ---
-layout: authors
-classes: narrow
+layout: single
+classes: wide
 permalink: /about/ 
 ---
 
-
-
 # The Asellus Consortium
 
-Who we are, what we do, our intent. Mention Twitter account, github acount, deposited data, etc...
+These are the current members of The Asellus Consoritum. Our goal is to better connect the community of isopod researchers through  meetings and symposia, compile data-sources, protocols and basic knowledge on _Asellus aquaticus_, and to organize.  
 
+The consortium is open to anyone - if you are interested in helping us, please get in touch with us at [asellus.consortium@gmail.com](mailto:asellus.consortium@gmail.com)
 
-and want help us to compile knowledge on _Asellus aquaticus_, better connect the community, organize meetings and symposia, or have ideas for projects and collaborations, 
+<div class="member-grid">
 
-Links to our personal websites, ...
+	{% for member in site.data.members %}
 
+	<div itemscope.itemtype="https://schema.org/Person">
+	
+		<div class="member-content">
 
-# About this website
+		<img src= " {{ member.avatar_path }}" alt="{{ member.name }}" >
+		
+		<h3> {{ member.name }} </h3>
+		<p> {{ member.institute }} </p>
 
-Why should people care about this website
+		<p> <a href="{{ member.website }}"> website </a> | <a href="https://twitter.com/{{ member.twitter }}"> twitter </a> </p>
+		
+		
+		<div class="member-bio" itemprop="description">
+			<p> {{ member.bio }} </p>
+		</div>
+		
+		</div>
+	</div>
+{% endfor %}
+	</div>

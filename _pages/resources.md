@@ -4,24 +4,22 @@ permalink: /resources/
 title: "Data and resources"
 ---
 
-Links to manuals, data, and other resources related to asellus research
+Here we collect links to protocols (e.g., for maintenance or phenotyping) and datasets (e.g., images or genomes). We don't host any data ourselves, but rather point to external open science data platforms.  
 
 ## Protocols 
 
-### Written SOPs
+### Written manuals
 
 [No. 1 - Food pellets](https://docs.google.com/document/d/1whR5raKn40YuP9GanZAj118Z-thcOPFAc2KezJrZREk/edit?usp=sharing) - make tasty (or not) standardized food pellets for isopods
 
-Planned:
+[No. 2 - Sex determination](https://docs.google.com/document/d/1whR5raKn40YuP9GanZAj118Z-thcOPFAc2KezJrZREk/edit?usp=sharing) - make tasty (or not) standardized food pellets for isopods
 
-- No. 2 - Maintenace
-- No. 3 - Sexing
-- No. 4 - Phenotyping
-- No. 5 - Staging of embryos
-
-more to come soon ...
+Planned: Maintenace, phenotyping, staging of embryos, ... ?
 
 ### Videos
+
+Soon to come ...
+
 
 ## Data
 
@@ -36,6 +34,6 @@ The dataverse **asellus_images** can be found here: [https://dataverse.harvard.e
 
 ### Molecular resources
 
-Will be added in the future - if you have ideas for hosting platforms (genbank, ENA, etc.) or  
+Will be added in the future - if you have ideas for hosting platforms (genbank, ENA, etc.), please get in touch!  
 
 

@@ -1,5 +1,6 @@
 source "https://rubygems.org"
 
+gem 'jemoji'
 gem 'jekyll-titles-from-headings'
 gem 'jekyll-seo-tag'
 gem "minimal-mistakes-jekyll"

@@ -24,7 +24,8 @@ plugins:
   - jekyll-include-cache
   - jekyll-titles-from-headings
   - jekyll-seo-tag
-  
+  - jemoji
+
 titles_from_headings:
   enabled:     false
   strip_title: true

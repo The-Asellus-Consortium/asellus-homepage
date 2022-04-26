@@ -16,16 +16,23 @@ study_systems:
     title: "Phenotyped specimens of Asellus aquaticus"
 ---
 
-# Welcome!
+## Welcome!
 
-This the homepage of _The Asellus Consortium_, an interest group for the broad use of _Asellus aquaticus_ as a system to study ecological, evolutionary and developmental phenomena. We are currently still in the phase of consolidating knowledge, connecting among interest parties, and establishing of purpose.
+This the homepage of **The Asellus Consortium** - an interest group for the broad use of _Asellus aquaticus_ as a system to study ecological, evolutionary and developmental phenomena. The purpose of this website is to connect people interested in or already working with _A. aquaticus_ and to provide links to data repositories and protocols. 
 
-To receive (or share) the latest asellus related news, [**join the mailing list** (https://groups.google.com/g/asellus-mail)](https://groups.google.com/g/asellus-mail)
+We are currently still in the phase of consolidating knowledge, connecting interest-groups, and exploring ways to move this initiative forward. At the same time, we are slowly building content for this website, and we hope we can count on your contributions 
 
-For extended discussions and exchange on topics and ideas, [**use the discussion forum** (https://groups.google.com/g/asellus-forum)](https://groups.google.com/g/asellus-forum)
+### How to connect:
 
-If you are interested in joining the consortium, or have questions about this initiative, [**please get in touch with us**  (asellus.consortium@gmail.com)](asellus.consortium@gmail.com)
+Here are some ways to connect each other (for details see [Community]({{site.baseurl}}/community/)):
 
-<div style="max-width: 90%; display:flex; justify-content: center;">
+
+- To receive (or share) the latest _Asellus_ related news, [**join the mailing list** (https://groups.google.com/g/asellus-mail)](https://groups.google.com/g/asellus-mail)
+
+- For extended discussions and exchange on topics and ideas, [**use the discussion forum** (https://groups.google.com/g/asellus-forum)](https://groups.google.com/g/asellus-forum)
+
+- If you have data or materials to contribute, if have questions about this initiative, or would like to contribute by joining the consortium,  [**please contact us directly** (asellus.consortium@gmail.com)](mailto:asellus.consortium@gmail.com).
+
+<div style="display:flex; justify-content: center;">
 {% include gallery id="study_systems" %}
 </div>
