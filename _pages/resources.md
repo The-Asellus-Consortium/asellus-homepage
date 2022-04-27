@@ -12,7 +12,7 @@ Here we collect links to protocols (e.g., for maintenance or phenotyping) and da
 
 [No. 1 - Food pellets](https://docs.google.com/document/d/1whR5raKn40YuP9GanZAj118Z-thcOPFAc2KezJrZREk/edit?usp=sharing) - make tasty (or not) standardized food pellets for isopods
 
-[No. 2 - Sex determination](https://docs.google.com/document/d/1whR5raKn40YuP9GanZAj118Z-thcOPFAc2KezJrZREk/edit?usp=sharing) - make tasty (or not) standardized food pellets for isopods
+[No. 2 - Sex determination](https://docs.google.com/document/d/1wNvFEm9bPLP7uMr1z24-cmQR_4l5m0eeAU6dkYrrCGc/edit?usp=sharing) - determine the sex of adult individuals
 
 Planned: Maintenace, phenotyping, staging of embryos, ... ?
 
