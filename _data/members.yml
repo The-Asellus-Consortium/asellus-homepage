@@ -31,7 +31,14 @@
   twitter: " - "
   institute: "University of Jyväskylä"
   bio: ""
-  avatar_path: ""
+  avatar_path: "/assets/images/avatars/akshay_mohan.jpg"
+  
+- name: "Meredith Protas"
+  website: "https://www.dominican.edu/directory-people/meredith-protas"
+  twitter: " - "
+  institute: "Dominican University of California"
+  bio: ""
+  avatar_path: "/assets/images/avatars/meredith_protas.jpg"
   
 - name: "Moritz Lürig"
   website: "https://luerig.net"
