@@ -6,7 +6,7 @@
   avatar_path: "/assets/images/avatars/elvira_lafuente.jpg"
   
 - name: "Katja Räsänen"
-  website: ""
+  website: "https://www.jyu.fi/science/en/bioenv/research/biosciences/rasanen-group"
   twitter: "@katjajrasanen"
   institute: "University of Jyväskylä"
   bio: ""
@@ -25,6 +25,13 @@
   institute: University of Ljubljana
   bio: ""
   avatar_path: "/assets/images/avatars/ziga_fiser.jpg"
+  
+- name: "Akshay Mohan"
+  website: "https://www.jyu.fi/science/en/bioenv/staff-and-administration/staff/mohan-akshay"
+  twitter: " - "
+  institute: "University of Jyväskylä"
+  bio: ""
+  avatar_path: ""
   
 - name: "Moritz Lürig"
   website: "https://luerig.net"

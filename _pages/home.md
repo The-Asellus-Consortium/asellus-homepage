@@ -20,18 +20,11 @@ study_systems:
 
 This the homepage of **The Asellus Consortium** - an interest group for the broad use of _Asellus aquaticus_ as a system to study ecological, evolutionary and developmental phenomena. The purpose of this website is to connect people interested in or already working with _A. aquaticus_ and to provide links to data repositories and protocols. 
 
-We are currently still in the phase of consolidating knowledge, connecting interest-groups, and exploring ways to move this initiative forward. At the same time, we are slowly building content for this website, and we hope we can count on your contributions 
+We are currently still in the phase of consolidating knowledge, connecting interest-groups, and exploring ways to move this initiative forward. At the same time, we are slowly building content for this website. If you have data or materials to contribute, if have questions about this initiative, or would like to contribute by joining the consortium,  [**please contact us directly** (asellus.consortium@gmail.com)](mailto:asellus.consortium@gmail.com).
 
-### How to connect:
+## Let's connect!
 
-Here are some ways to connect each other (for details see [Community]({{site.baseurl}}/community/)):
-
-
-- To receive (or share) the latest _Asellus_ related news, [**join the mailing list** (https://groups.google.com/g/asellus-mail)](https://groups.google.com/g/asellus-mail)
-
-- For extended discussions and exchange on topics and ideas, [**use the discussion forum** (https://groups.google.com/g/asellus-forum)](https://groups.google.com/g/asellus-forum)
-
-- If you have data or materials to contribute, if have questions about this initiative, or would like to contribute by joining the consortium,  [**please contact us directly** (asellus.consortium@gmail.com)](mailto:asellus.consortium@gmail.com).
+We have set up a google group that works as a mailing list to send or receive the latest _Asellus_ related news. Simply sign up here and adjust your subscription settings - everything except "No email" will work:  **[https://groups.google.com/g/asellus-mail](https://groups.google.com/g/asellus-mail)** Now you can send messages to everyone by sending an email to the group address (asellus-mail@googlegroups.com) or by posting something online.
 
 <div style="display:flex; justify-content: center;">
 {% include gallery id="study_systems" %}

@@ -1,4 +1,6 @@
 
+/* GALLERY */
+
 .third {
     /* display: -webkit-box; */
     display: flex;
@@ -12,3 +14,11 @@
     /* flex-wrap: wrap; */
     /* margin: 1em 0; */
 }
+
+/* VARIOUS */
+
+figure img, figure iframe, figure .fluid-width-video-wrapper {
+    margin-bottom: 0em;
+	border-radius: 5px;
+}
+
